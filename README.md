@@ -1,15 +1,6 @@
-- 👋 Hi, I’m @itzkewal
-- 👀 I’m interested in Data science 
-- 🌱 I’m currently learning DSA
+- 👋 Hi, I’m Kewal Parekh
+- 👀 I’m interested in Python Web Development, Data Science, Data Analyst.
+- 🌱 I’m learning DSA in Python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me. 21evjcs046@vitj.ac.in
+- 📫 How to reach me. 21evjcs046@vitj.ac.in or kewalparekh842003@gmail.com
 - https://www.linkedin.com/in/kewal-parekh-bb4444246
- 
-- 
-- 
-- 
-
-<!---
-itzkewal/itzkewal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
