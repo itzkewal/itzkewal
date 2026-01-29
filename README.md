@@ -1,4 +1,4 @@
-👋 Hi, I'm Kewal Parekh!
+👋 Hi, I'm Kewal Parekh Lunddd(DICK)!
 
 I'm a passionate Python and Django developer with a keen interest in exploring the latest technologies to create innovative solutions.
 
