@@ -32,7 +32,7 @@ I'm a passionate Python and Django developer with a keen interest in exploring t
 
 GitHub: itzkewal
 
-Email: kewalparekh842003@gmail.com
+Email: kewalparekh842003@gmail.com || kewal.parekh84@gmail.com
 
 Linkedin: https://www.linkedin.com/in/kewal-parekh-bb4444246/
 
