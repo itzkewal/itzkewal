@@ -23,9 +23,6 @@ I'm a passionate Python and Django developer with a keen interest in exploring t
 📊 Data Analytics & Machine Learning
 
 ☁️ Cloud Deployment (Basics)
-fuckkkkkkkk
-faaahhhhhhhhhhh
-
 
 
 ---
